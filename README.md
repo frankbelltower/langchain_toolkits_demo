@@ -1,7 +1,7 @@
 # LangChain Toolkits Demo
  
 ## Aiming point
-The repository wants to show how simple is to implement and use the toolkits powered by LangChain.
+The repository wants to show how simple it is to implement and use the toolkits powered by LangChain.
 The examples in the repository are related to the SQLDatabase and JSON toolkits.
 
 ## Preconditions
