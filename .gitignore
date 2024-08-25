@@ -1,0 +1,43 @@
+# Compiled binaries
+*.class
+*.exe
+*.dll
+*.so
+*.o
+
+# Package directories
+__pycache__/
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.env/
+venv/
+env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+tmp/
+
+# System-specific files
+.Trashes
+Thumbs.db
+
+# Miscellaneous
+*.pyc
+*.swp
+*~
+
+# Project-specific files or directories can be added here
+src/env.py
+src/identifier.sqlite
